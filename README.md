@@ -33,3 +33,6 @@
   <li><span dir="ltr"> </span>TTS Module:  User will be able to listen to information instead of reading. TTS will used to  convert text of audio at runtime.</li>
   <li><span dir="ltr"> </span>Product  listings/Search Module: The website will list all the products in given  language. Users will be able to search information instead of scanning  barcodes. </li>
 </ol>
+
+<h2> Entity Relationships </h2>
+<img src="https://github.com/HYKaz/Product-Translator/blob/master/erd.png" />
