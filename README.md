@@ -2,9 +2,9 @@
 <h2>Product Translator</h2>
 <h3>Introduction</h3>
 
-<p>
+<!-- <p>
   <strong><u>Instructor</u></strong><strong> :</strong>  <strong>Kyle</strong> Schmitz, <a href="mailto:krmschmitz@gmail.com">krmschmitz@gmail.com</a> <br />
-  <strong><u>Student</u></strong><strong>:</strong> <strong>Syed</strong> Hasan Yasar <strong>Kazmi</strong>, <a href="mailto:hasan@hykaz.com">hasan@hykaz.com</a>  <br />
+  <strong><u>Student</u></strong><strong>:</strong> <strong>Syed</strong> Hasan Yasar <strong>Kazmi</strong>, <a href="mailto:hasan@hykaz.com">hasan@hykaz.com</a>  <br /> -->
 
 <p>
   &ldquo;<em>Product  Translator</em>&rdquo; will be developed to facilitate foreign immigrants in Winnipeg,  who cannot understand English and are doing grocery; this application will  read-in the barcode of the product and will output the related multilingual  information. This software will provide following functions:
