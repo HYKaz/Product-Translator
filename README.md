@@ -49,3 +49,6 @@
 <li>Admin Module</li>
 <li>SQL Server Database</li>
 </ul>
+
+<h2>System Diagram Level 2</h2>
+<img src="https://github.com/HYKaz/Product-Translator/blob/master/layout.png" />
