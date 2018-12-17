@@ -36,3 +36,16 @@
 
 <h2> Entity Relationships </h2>
 <img src="https://github.com/HYKaz/Product-Translator/blob/master/erd.png" />
+
+
+<h2>System Modules</h2>
+<ul>
+<li>Barcode [Data Matrix] Generator [Offline, WinForms, C#, .Net 4.6.1]</li>
+<li>Barcode Reader [ASP.Net Core 2.1, C#]</li>
+<li>Registration Module [ASP.Net Core 2.1, C#]</li>
+<li>Scan Data Matrix Module  [ASP.Net Core 2.1, C#, 3Rd Party Library]</li>
+<li>Search and Listings  [ASP.Net Core 2.1, C#]</li>
+<li>Multilingual Text to Speech [ASP.Net, C#, MS TTS API, REST, Azure]</li>
+<li>Admin Module</li>
+<li>SQL Server Database</li>
+</ul>
