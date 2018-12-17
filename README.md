@@ -56,7 +56,7 @@
 <h2> Barcode Generator and Reader </h2>
 
 As barcode generation and reading at runtime is one of the core modules of this project, so a dedicated generator software has been created that makes use of various third party free libraries. A commercial API/Library has been selected after through testing on Linear, QR and Data Matrix schemes to read the barcode with accuracy and least complixity.
-<strong> Screenshot Barcode Generator </strong>
+<p> <strong> Screenshot Barcode Generator </strong> </p>
 <img src="https://github.com/HYKaz/Product-Translator/blob/master/barCodegen_screenshot.png" />
 
 <h2>Barcodes/ Data Matrix</h2>
