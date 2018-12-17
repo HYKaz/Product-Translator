@@ -1,0 +1,13 @@
+C:\Users\Hasan\source\repos\KBarCodeGen\KBarCodeGen\bin\x86\Debug\KBarCodeGen.exe.config
+C:\Users\Hasan\source\repos\KBarCodeGen\KBarCodeGen\bin\x86\Debug\KBarCodeGen.exe
+C:\Users\Hasan\source\repos\KBarCodeGen\KBarCodeGen\bin\x86\Debug\KBarCodeGen.pdb
+C:\Users\Hasan\source\repos\KBarCodeGen\KBarCodeGen\bin\x86\Debug\BarcodeLib.dll
+C:\Users\Hasan\source\repos\KBarCodeGen\KBarCodeGen\bin\x86\Debug\DataMatrix.net.dll
+C:\Users\Hasan\source\repos\KBarCodeGen\KBarCodeGen\obj\x86\Debug\KBarCodeGen.AboutBox1.resources
+C:\Users\Hasan\source\repos\KBarCodeGen\KBarCodeGen\obj\x86\Debug\KBarCodeGen.Form1.resources
+C:\Users\Hasan\source\repos\KBarCodeGen\KBarCodeGen\obj\x86\Debug\KBarCodeGen.Properties.Resources.resources
+C:\Users\Hasan\source\repos\KBarCodeGen\KBarCodeGen\obj\x86\Debug\KBarCodeGen.csproj.GenerateResource.cache
+C:\Users\Hasan\source\repos\KBarCodeGen\KBarCodeGen\obj\x86\Debug\KBarCodeGen.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\source\repos\KBarCodeGen\KBarCodeGen\obj\x86\Debug\KBarCodeGen.csproj.CopyComplete
+C:\Users\Hasan\source\repos\KBarCodeGen\KBarCodeGen\obj\x86\Debug\KBarCodeGen.exe
+C:\Users\Hasan\source\repos\KBarCodeGen\KBarCodeGen\obj\x86\Debug\KBarCodeGen.pdb

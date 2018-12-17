@@ -1,0 +1,12 @@
+C:\Users\Hasan\source\repos\KBarCodeGen\KBarCodeGen\obj\Debug\KBarCodeGen.csprojAssemblyReference.cache
+C:\Users\Hasan\source\repos\KBarCodeGen\KBarCodeGen\obj\Debug\KBarCodeGen.Form1.resources
+C:\Users\Hasan\source\repos\KBarCodeGen\KBarCodeGen\obj\Debug\KBarCodeGen.Properties.Resources.resources
+C:\Users\Hasan\source\repos\KBarCodeGen\KBarCodeGen\obj\Debug\KBarCodeGen.csproj.GenerateResource.cache
+C:\Users\Hasan\source\repos\KBarCodeGen\KBarCodeGen\obj\Debug\KBarCodeGen.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\source\repos\KBarCodeGen\KBarCodeGen\bin\Debug\KBarCodeGen.exe.config
+C:\Users\Hasan\source\repos\KBarCodeGen\KBarCodeGen\bin\Debug\KBarCodeGen.exe
+C:\Users\Hasan\source\repos\KBarCodeGen\KBarCodeGen\bin\Debug\KBarCodeGen.pdb
+C:\Users\Hasan\source\repos\KBarCodeGen\KBarCodeGen\obj\Debug\KBarCodeGen.AboutBox1.resources
+C:\Users\Hasan\source\repos\KBarCodeGen\KBarCodeGen\obj\Debug\KBarCodeGen.csproj.CopyComplete
+C:\Users\Hasan\source\repos\KBarCodeGen\KBarCodeGen\obj\Debug\KBarCodeGen.exe
+C:\Users\Hasan\source\repos\KBarCodeGen\KBarCodeGen\obj\Debug\KBarCodeGen.pdb
