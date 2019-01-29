@@ -1,5 +1,4 @@
-<h1>Com IT .Net  Course Project</h1>
-<h2>Product Translator</h2>
+<h1>Product Translator</h1>
 <h3>Introduction</h3>
 
 <!-- <p>
